@@ -1,0 +1,1 @@
+{"jobID":"97a37886-3c9c-784a-72bf-db003c72ed12","spec":{"type":"policy","cause":{"Message":"","User":"Bob Hong \u003cbhong@plex.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
